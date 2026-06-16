@@ -8,4 +8,4 @@ statement as a comment followed by my solution.
 
 ## Progress
 - Started: May 2026
-- Problems solved:8
+- Problems solved:9
