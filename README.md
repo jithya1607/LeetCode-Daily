@@ -7,5 +7,5 @@ Each file is named day{n}_{problem_name}.py and includes the problem
 statement as a comment followed by my solution.
 
 ## Progress
-- Started: May 2026
-- Problems solved:27
+- Started: May 2026 (easy)
+- Problems solved:28
